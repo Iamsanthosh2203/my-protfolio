@@ -1,10 +1,19 @@
+import PiracyForEverything from "../assets/PiracyForEverything.png";
+import Typerrr from "../assets/Typerrr.png";
+import CalculatorApp from "../assets/CalculatorApp.png";
+import ShareItLater from "../assets/ShareItLater.png";
+import piggame from "../assets/piggame.png";
+import GuessMyNumber from "../assets/GuessMyNumber!.png";
+import PoeticQuoteGenerator from "../assets/PoeticQuoteGenerator.png";
+import ShareMoney from "../assets/ShareMoney.png";
+
 const works = [
   {
     id: 1,
     title: "Piracy For Everything",
     description: "A website that provides pirated content for free.",
     subtitle: "Directory Website",
-    img: "src/assets/PiracyForEverything.png",
+    img: PiracyForEverything,
     link: "https://piracyforeverything.github.io/p4e/",
     flex: "start",
   },
@@ -13,7 +22,7 @@ const works = [
     title: "Typerrr",
     description: "A web app that helps you improve your typing speed.",
     subtitle: "Web App",
-    img: "src/assets/Typerrr.png",
+    img: Typerrr,
     link: "https://iamsanthosh2203.github.io/typerrr/",
     flex: "start",
   },
@@ -22,7 +31,7 @@ const works = [
     title: "Swift Calc",
     description: "A website that provides pirated content for free.",
     subtitle: "Simple Calculator",
-    img: "src/assets/CalculatorApp.png",
+    img: CalculatorApp,
     link: "https://iamsanthosh2203.github.io/calculator-app/",
     flex: "end",
   },
@@ -31,7 +40,7 @@ const works = [
     title: "Enchant Scrolls",
     description: "A website that provides pirated content for free.",
     subtitle: "Parallax Website",
-    img: "src/assets/ShareItLater.png",
+    img: ShareItLater,
     link: "https://iamsanthosh2203.github.io/parallax-website-midlead/",
     flex: "end",
   },
@@ -40,7 +49,7 @@ const works = [
     title: "Piglet Dash",
     description: "A website that provides pirated content for free.",
     subtitle: "Game",
-    img: "src/assets/piggame.png",
+    img: piggame,
     link: "https://iamsanthosh2203.github.io/pig-game/",
     flex: "start",
   },
@@ -49,7 +58,7 @@ const works = [
     title: "Guess Quest",
     description: "A website that provides pirated content for free.",
     subtitle: "Game",
-    img: "src/assets/GuessMyNumber!.png",
+    img: GuessMyNumber,
     link: "https://iamsanthosh2203.github.io/guessing-game-project/",
     flex: "start",
   },
@@ -58,7 +67,7 @@ const works = [
     title: "AI Funny Generator",
     description: "A website that provides pirated content for free.",
     subtitle: "AI Web App",
-    img: "src/assets/PoeticQuoteGenerator.png",
+    img: PoeticQuoteGenerator,
     link: "https://iamsanthosh2203.github.io/final-quote-generator/",
     flex: "end",
   },
@@ -67,7 +76,7 @@ const works = [
     title: "Share Money",
     description: "A website that provides pirated content for free.",
     subtitle: "Web App",
-    img: "src/assets/ShareMoney.png",
+    img: ShareMoney,
     link: "https://iamsanthosh2203.github.io/share-money/",
     flex: "end",
   },
